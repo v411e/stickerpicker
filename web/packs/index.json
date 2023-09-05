@@ -1,0 +1,16 @@
+{
+  "packs": [
+    "Babelababel.json",
+    "KenguruStamps.json",
+    "real_cats.json",
+    "nernst.json",
+    "therealbde.json",
+    "facepalmstickers.json",
+    "peppsstickerpack.json",
+    "censorpack.json",
+    "hurensohnsticker.json",
+    "shitty_logos.json",
+    "AppleSteveJobs.json"
+  ],
+  "homeserver_url": "https://matrix.keks.club"
+}
